@@ -1,0 +1,26 @@
+# IDE 配置文件
+.vscode/
+.idea/
+.DS_Store
+
+# CMake 构建目录
+build/
+cmake-build-debug/
+
+# CLion生成的目录
+.cache/
+.clangd/
+
+# 编译输出
+*.o
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+
+# CMake 临时文件
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
