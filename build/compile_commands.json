@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/zhangyishun/Code/LearnProject/AP1400-2/AP1400-2-HW1/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-g++-14 -I/Users/zhangyishun/Code/LearnProject/AP1400-2/AP1400-2-HW1/include -isystem /usr/local/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/main.dir/src/main.cpp.o -c /Users/zhangyishun/Code/LearnProject/AP1400-2/AP1400-2-HW1/src/main.cpp",
+  "file": "/Users/zhangyishun/Code/LearnProject/AP1400-2/AP1400-2-HW1/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/zhangyishun/Code/LearnProject/AP1400-2/AP1400-2-HW1/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-g++-14 -I/Users/zhangyishun/Code/LearnProject/AP1400-2/AP1400-2-HW1/include -isystem /usr/local/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/main.dir/src/hw1.cpp.o -c /Users/zhangyishun/Code/LearnProject/AP1400-2/AP1400-2-HW1/src/hw1.cpp",
+  "file": "/Users/zhangyishun/Code/LearnProject/AP1400-2/AP1400-2-HW1/src/hw1.cpp",
+  "output": "CMakeFiles/main.dir/src/hw1.cpp.o"
+},
+{
+  "directory": "/Users/zhangyishun/Code/LearnProject/AP1400-2/AP1400-2-HW1/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-g++-14 -I/Users/zhangyishun/Code/LearnProject/AP1400-2/AP1400-2-HW1/include -isystem /usr/local/include -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -o CMakeFiles/main.dir/src/unit_test.cpp.o -c /Users/zhangyishun/Code/LearnProject/AP1400-2/AP1400-2-HW1/src/unit_test.cpp",
+  "file": "/Users/zhangyishun/Code/LearnProject/AP1400-2/AP1400-2-HW1/src/unit_test.cpp",
+  "output": "CMakeFiles/main.dir/src/unit_test.cpp.o"
+}
+]
